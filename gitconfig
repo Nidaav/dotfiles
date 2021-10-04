@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leo0703@hotmail.fr
+	name = Leo Tanguy
